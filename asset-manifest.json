@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zChat/static/css/main.9a71fadc.css",
-    "main.js": "/zChat/static/js/main.b4f48c17.js",
-    "static/media/user.webp": "/zChat/static/media/user.0efdfdba5f9437e0ce58.webp",
-    "static/media/logo.webp": "/zChat/static/media/logo.e5ee7703e391a631e53e.webp",
-    "index.html": "/zChat/index.html",
-    "main.9a71fadc.css.map": "/zChat/static/css/main.9a71fadc.css.map",
-    "main.b4f48c17.js.map": "/zChat/static/js/main.b4f48c17.js.map"
+    "main.css": "/zChatBot/static/css/main.9a71fadc.css",
+    "main.js": "/zChatBot/static/js/main.e0be6257.js",
+    "static/media/user.webp": "/zChatBot/static/media/user.0efdfdba5f9437e0ce58.webp",
+    "static/media/logo.webp": "/zChatBot/static/media/logo.e5ee7703e391a631e53e.webp",
+    "index.html": "/zChatBot/index.html",
+    "main.9a71fadc.css.map": "/zChatBot/static/css/main.9a71fadc.css.map",
+    "main.e0be6257.js.map": "/zChatBot/static/js/main.e0be6257.js.map"
   },
   "entrypoints": [
     "static/css/main.9a71fadc.css",
-    "static/js/main.b4f48c17.js"
+    "static/js/main.e0be6257.js"
   ]
 }
