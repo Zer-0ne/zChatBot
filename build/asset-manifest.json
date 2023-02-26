@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zChatBot/static/css/main.9a71fadc.css",
+    "main.js": "/zChatBot/static/js/main.57ab40eb.js",
+    "static/media/user.webp": "/zChatBot/static/media/user.0efdfdba5f9437e0ce58.webp",
+    "static/media/logo.webp": "/zChatBot/static/media/logo.e5ee7703e391a631e53e.webp",
+    "index.html": "/zChatBot/index.html",
+    "main.9a71fadc.css.map": "/zChatBot/static/css/main.9a71fadc.css.map",
+    "main.57ab40eb.js.map": "/zChatBot/static/js/main.57ab40eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a71fadc.css",
+    "static/js/main.57ab40eb.js"
+  ]
+}
